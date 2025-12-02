@@ -8,6 +8,10 @@ Shadows of the Ancient Realm is a third-person action-mystery game inspired by I
 4. Scalable multiplayer modes including co-op exploration, boss hunts, and competitive PvP duels
 5. Players craft their unique combat identity by absorbing powers from defeated bosses while experiencing a globally appealing, culturally rich adventure that celebrates Indian storytelling in a modern, interactive form.
 
+<img width="659" height="431" alt="image" src="https://github.com/user-attachments/assets/bc17513e-710b-4b60-b293-c193eea096e1" />
+
+<img width="1918" height="1046" alt="image" src="https://github.com/user-attachments/assets/fc3d3c1b-2c88-438f-9584-869533a5e7d4" />
+
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
