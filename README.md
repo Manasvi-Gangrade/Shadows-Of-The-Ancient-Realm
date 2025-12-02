@@ -1,4 +1,5 @@
 **Shadows of the Ancient Realm**
+
 Shadows of the Ancient Realm is a third-person action-mystery game inspired by Indian folklore and mythological creatures. Explore corrupted realms, face reimagined Rakshasas, Vetalas, Yakshas, and other legendary beings, and unlock adaptive mythic powers with each victory.
 
 **The game combines:**
