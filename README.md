@@ -2,11 +2,11 @@
 Shadows of the Ancient Realm is a third-person action-mystery game inspired by Indian folklore and mythological creatures. Explore corrupted realms, face reimagined Rakshasas, Vetalas, Yakshas, and other legendary beings, and unlock adaptive mythic powers with each victory.
 
 **The game combines:**
-Fast-paced combat with fluid melee combos and mystical abilities
-Mystery-driven exploration with hidden lore, environmental puzzles, and artifacts
-Stylized Indian art aesthetics blending Warli, Gond, Madhubani, and Mandala motifs
-Scalable multiplayer modes including co-op exploration, boss hunts, and competitive PvP duels
-Players craft their unique combat identity by absorbing powers from defeated bosses while experiencing a globally appealing, culturally rich adventure that celebrates Indian storytelling in a modern, interactive form.
+1. Fast-paced combat with fluid melee combos and mystical abilities
+2. Mystery-driven exploration with hidden lore, environmental puzzles, and artifacts
+3. Stylized Indian art aesthetics blending Warli, Gond, Madhubani, and Mandala motifs
+4. Scalable multiplayer modes including co-op exploration, boss hunts, and competitive PvP duels
+5. Players craft their unique combat identity by absorbing powers from defeated bosses while experiencing a globally appealing, culturally rich adventure that celebrates Indian storytelling in a modern, interactive form.
 
 **Use your preferred IDE**
 
