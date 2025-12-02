@@ -12,6 +12,8 @@ Shadows of the Ancient Realm is a third-person action-mystery game inspired by I
 
 <img width="1918" height="1046" alt="image" src="https://github.com/user-attachments/assets/fc3d3c1b-2c88-438f-9584-869533a5e7d4" />
 
+<img width="1319" height="577" alt="image" src="https://github.com/user-attachments/assets/9d7cbafd-4c0c-4f16-b905-a531ad90ccc6" />
+
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
